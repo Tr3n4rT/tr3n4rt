@@ -33,22 +33,22 @@ ____
 
 ### __Expérience professionnelle__ ###
 🛍️🛒 [__Auchan Meriadek Bordeaux__](https://www.auchan.fr/magasins/hypermarche/auchan-hypermarche-bordeaux-meriadeck/s-29) 🛒 🛍️
-+ Equipier Magasin
-+ Accueil et Solution client
-+ Ecoute Active
-+ Formateur hôte.esse de caisse
++ *Equipier Magasin*
++ *Accueil et Solution client*
++ *Ecoute Active*
++ *Formateur hôte.esse de caisse*
 
 ### __Compétences__ ###
 🖥️ __Informatique__ 🖱 ️⌨️
-+ C - Fondamentaux
-+ Python - Fondamentaux
-+ Markedown
-+ Git/Github
-+ HTML et CSS - Notions de base
-+ MYSQL - Fondamentaux
-+ PC Linux Debian : Console (commandes et opérations générale) et script.
-+ MS-DOS : Notions de base et script
-+ Maintenance informatique préventive et curative
++ *C - Fondamentaux*
++ *Python - Fondamentaux*
++ *Markedown*
++ *Git/Github*
++ *HTML et CSS - Notions de base*
++ *MYSQL - Fondamentaux*
++ *PC Linux Debian : Console (commandes et opérations générale) et script.*
++ *MS-DOS : Notions de base et script*
++ *Maintenance informatique préventive et curative*
 
 
 ### __Hobbies__ ###
